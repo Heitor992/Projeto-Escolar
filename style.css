@@ -5,6 +5,12 @@ body{
     font-family: "Itim", cursive;
     margin-bottom: 100px;
 }
+header{
+    border-bottom: solid 2px blueviolet;
+    padding: 20px;
+    font-size: 320px;
+    color: blue;
+}
 
 .chamada{
     background: blue;
